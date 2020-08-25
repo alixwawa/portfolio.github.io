@@ -1,0 +1,23 @@
+{
+  "name": "hw2.github.io",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "eslint": "^7.7.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alixwawa/hw2.github.io.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alixwawa/hw2.github.io/issues"
+  },
+  "homepage": "https://github.com/alixwawa/hw2.github.io#readme"
+}
