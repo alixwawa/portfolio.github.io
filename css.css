@@ -56,3 +56,18 @@ p {
     text-align: center;
     margin: auto;
   }
+
+  .totheright {
+    text-align: right;
+  }
+
+  #uniquePic {
+    width: 10%;
+    height: 10%;
+    
+  }
+
+  footer {
+    margin: auto;
+    text-align: center;
+  }
