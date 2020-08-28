@@ -26,14 +26,14 @@ p {
   }
 
   .fa-linkedin {
-    background: #3B5998;
-    color: white;
+    /* background: #3B5998; */
+    color: #3B5998
     
   }
 
   .fa-github {
-    background:gray;
-    color: white;
+    /* background:gray; */
+    color: #3B5998
   }
 
   footer {
