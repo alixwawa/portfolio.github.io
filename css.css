@@ -2,7 +2,7 @@
 
 img { width: 100%;
     margin: 20px;
-    display: in
+    
     
 
 }
@@ -41,6 +41,7 @@ p {
       margin: 0px;
       border: 0px;
       padding: 0px;
+      
 
   }
 
@@ -72,13 +73,21 @@ p {
     text-align: center;
   }
 
-  hr {
+  #hr {
     height: 1px;
         background-color: black;
         border: none;
+        margin: 0px;
+      border: 0px;
+      padding: 0px;
+      
   }
 
-  header {
+
+  #header {
     margin-bottom: 0px;
-    border: 0px;
+  }
+
+  #footer {
+    background-color: #e9ecef;
   }
